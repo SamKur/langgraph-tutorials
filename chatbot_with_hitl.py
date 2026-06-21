@@ -1,4 +1,4 @@
-# backend.py
+# backend.py - This is important to understand all concepts at once
 
 from langgraph.graph import StateGraph, START
 from typing import TypedDict, Annotated
